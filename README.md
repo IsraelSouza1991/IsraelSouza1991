@@ -22,7 +22,7 @@ Atualmente estudo algumas liguagens de programação conforme destacado em meus 
 <h3 align="left" style="text-decoration: underline">Minhas ferramentas favoritas:</h3>
  
 
-[[![EXCEL](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=107C41)](https://github.com/IsraelSouza1991)
+[![EXCEL](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=107C41)](https://github.com/IsraelSouza1991)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://github.com/IsraelSouza1991)
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)](https://github.com/IsraelSouza1991)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)](https://github.com/IsraelSouza1991)
@@ -75,5 +75,7 @@ Atualmente estudo algumas liguagens de programação conforme destacado em meus 
 
 <details>
  <summary style="padding: 2px 6px; width: 15em; background-color:black; border: none; box-shadow: 3px 3px 4px gray; cursor: pointer">Links para minhas páginas</summary>
- <a href="https://israelsouza1991.github.io/Projeto-one-piece/">Site One Piece</a>
+ <ul>
+  <li><a href="https://israelsouza1991.github.io/Projeto-one-piece/" target="_blank">Site One Piece</a></li>
+ </ul> 
 </details>
