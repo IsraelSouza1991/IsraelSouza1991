@@ -19,7 +19,7 @@ Atualmente estudo algumas liguagens de programação conforme destacado em meus 
 
 <br>
 
-<h3 align="left" style="text-decoration: underline">Minhas ferramentas favoritas:</h3>
+<h3 align="left" style="text-decoration: underline">Favoritos:</h3>
  
 
 [![EXCEL](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=107C41)](https://github.com/IsraelSouza1991)
